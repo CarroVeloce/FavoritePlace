@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "164680401000",
+    "firebase_url": "https://uas-moprog-arjuna-default-rtdb.firebaseio.com",
+    "project_id": "uas-moprog-arjuna",
+    "storage_bucket": "uas-moprog-arjuna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164680401000:android:9e7e50e835d76120a1bbdd",
+        "android_client_info": {
+          "package_name": "pnj.uts.ti.favoritplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPEg837PCiyi8rnfryPtUsskB8Rm5bowk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164680401000:android:8578fd56c06f3934a1bbdd",
+        "android_client_info": {
+          "package_name": "pnj.uts.ti.uasmoprogarjuna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPEg837PCiyi8rnfryPtUsskB8Rm5bowk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
